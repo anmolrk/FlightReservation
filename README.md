@@ -1,6 +1,6 @@
 # FlightReservation
 Hello,
-This is our project on Flight Reservation Using HTML, CSS mainly.
+This is our "Flight Reservation Static Webpage" project in HTML, CSS, and JS.<br>
 Firstly, I just wanted to thank our CSE326 Faculty Shabnam Ma'am for all of her help and guidance throughout this project. Her patience and guidance have greatly facilitated our development and learning.<br>
 We mean group of three :<br>
 Anmol Raj<br>
